@@ -1,7 +1,8 @@
 # MVP-Project
- Using CANVA to create web pages
+
 USE OF CANVA IN CREATING AND DESIGNING DESKTOP AND MOBILE FRIENDLY WEB PAGES
-Screenshot 2023-04-01 233307
+![Screenshot 2023-04-01 233307](https://user-images.githubusercontent.com/107030999/229486316-f06d5e71-de23-4874-bcad-a0cbe7842f4f.png)
+
 
 Team Members
 Project done By: Enyinnah Light Chimeremeze.
@@ -39,6 +40,9 @@ As we got the links to these websites, another issue was on how to fix them in a
 Beautifying the colors, backgrounds and the needed pictures took a considerable amount of time too. 
 
 			Screenshots
+![Screenshot 2023-04-01 172640](https://user-images.githubusercontent.com/107030999/229486581-fb750706-827b-4fff-b0cb-2472e03b726e.png)
+
+![Screenshot 2023-04-03 105745](https://user-images.githubusercontent.com/107030999/229486646-f4192d53-97b4-447c-9675-afc303cb46c7.png)
 
 
 
